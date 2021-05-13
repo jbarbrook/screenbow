@@ -1,5 +1,12 @@
 require "keybow"
 
+-- Present Layout
+-- Close	Google Scholar		Lancaster OneSearch
+-- Up		Down			Esc
+-- Reason	Label			Enter
+-- Include	Undecided		Exclude
+
+
 function setup() -- Custom Light
     keybow.auto_lights(false)
     keybow.clear_lights()
