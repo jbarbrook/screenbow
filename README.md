@@ -20,4 +20,4 @@ To Install
 Drop the screenbow file in the layouts folder
 Add require "layouts/screenbow" to the bottom of the keys file
 
-Contact John Barbrook - Faculty Librarian at j.barbrook@lancaster.ac.uk with any comments
+Contact John Barbrook - Faculty Librarian, Lancaster University at j.barbrook@lancaster.ac.uk with any comments
