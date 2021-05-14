@@ -3,7 +3,7 @@ Rayyan Macros .LUA scripts for the Pimoroni Keybow
 
 https://photos.app.goo.gl/DsgtLwcERejJ74r77
 
-The present 'working ok!' layout is included in the screnbow.lua file. 
+The present 'working ok!' layout is included in the screenbow.lua file. 
 
 This is a macro to map shortcuts in rayyan.ai to keys on the Pimoroni Keybow to get round the issue that using macro software and other quality of life applications on University PCs usually is not permitted.
 
