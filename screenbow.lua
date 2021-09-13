@@ -2,7 +2,7 @@ require "keybow"
 
 -- Present Layout
 -- Close	Google Scholar		Lancaster OneSearch
--- Up		Down			Esc
+-- Up		? (Free)		Down
 -- Reason	Label			Enter
 -- Include	Undecided		Exclude
 
@@ -53,12 +53,12 @@ function handle_key_06(pressed)
 end
 
 function handle_key_07(pressed)
-    keybow.set_key(keybow.DOWN_ARROW, pressed)
+   keybow.set_key("?", pressed)
 end
 
 
 function handle_key_08(pressed)
-    keybow.set_key(keybow.ESC, pressed)
+    keybow.set_key(keybow.DOWN_ARROW, pressed)
 end
 
 
